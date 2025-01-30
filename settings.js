@@ -3,13 +3,13 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2349019529423"
+global.pairingNumber = "254798611895"
 
 
 
 
 //DO NOT EDIT OR MODD
-global.botNumber = pairingNumber
+global.botNumber = 254798611895
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
@@ -23,7 +23,7 @@ global.public = true
 global.autoreact = false
 global.antidelete = false
 global.autotyping = false
-global.autoBio = true
+global.autoBio = false
 global.antiSpam = true
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
