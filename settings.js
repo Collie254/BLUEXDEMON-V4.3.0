@@ -18,7 +18,7 @@ global.loc = "1"
 global.anticall = false
 global.autoReadChat = false
 global.alwaysonline = true
-global.autoswview = false
+global.autoswview =true
 global.public = true
 global.autoreact = false
 global.antidelete = false
@@ -29,7 +29,7 @@ global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "Opay"
 global.bankname = "BLUE"
-global.accnumber = "7041039367"
+global.accnumber = "254798611895"
 global.language = "en"
 global.sessionName = "session"
 global.pairingCode = true 
